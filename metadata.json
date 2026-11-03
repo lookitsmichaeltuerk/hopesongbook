@@ -1,0 +1,6 @@
+{
+  "name": "Hope Songbook",
+  "description": "Floating ChordPro songbook, world-instrument chord & bass pads, drum groove sequencer, and lead-sheet melody player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
